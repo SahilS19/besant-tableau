@@ -9,7 +9,7 @@ It enables stakeholders to monitor revenue, pricing patterns, and sales distribu
 
 ## 📷 Dashboard Preview
 
-![banner](car-sales-dsahboards.png)
+![Banner](car-sales-dsahboards.png)
 
 ---
 
