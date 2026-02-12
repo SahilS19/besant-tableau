@@ -151,16 +151,6 @@ The dataset includes transactional-level car sales data:
 
 ---
 
-## 👨‍💻 Author
-
-**Sarthak Raj**
-Data Enthusiast
-
-🔗 LinkedIn: *(Add your profile link)*
-📧 Email: *(Add your email)*
-
----
-
 ## ⭐ If You Found This Useful
 
 Give this repository a ⭐ to support the project and stay up to date on more data analytics work!
